@@ -1,0 +1,10 @@
+Title: GrzybojoClicker
+Game type: Idle clicker web game, cookie clicker clone
+Target platform: web, target mostly on mobile, should also work on desktop
+Basic idea: Clicking "boi" image by default generate 1 mushroom. Mushroom is a currency to buy further updgrades.
+Tech stack: react + additional libraries that are nessecary
+Image asset: images are located in assets folder, if no image is provided use placeholder image
+Progress save: progress should be saved in local storage
+Basic layout: There should be mushroom counter on top, "boi" image should be in the middle, and should be clickable to generate 1 mushroom, on the bottom there should be an "updgrades" button that opens new view with updgrades from upgrades.json file as a list
+Additional requirements: make the upgrades generate proper amount of mushroom automatically, make the numbers of mushroom that upgrades generate apropriate so that overall the game takes 4 hours to finish
+Further improvements may be applicable if nessecary, you can provide some improvement ideas
