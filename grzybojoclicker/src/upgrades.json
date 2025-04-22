@@ -1,0 +1,81 @@
+{
+    "upgrades": [
+        {
+            "name": "kamienie",
+            "description": "generuje grzyby przez uderzanie kamieniem w kamień",
+            "basePrice": 10,
+            "baseGenerationRate": 0.1,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "twój stary",
+            "description": "generuje grzyby przez opierdol",
+            "basePrice": 50,
+            "baseGenerationRate": 0.5,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "bełkot",
+            "description": "generuje grzyby przez mówienie trzyliterowych niezrozumiałych skrótów",
+            "basePrice": 200,
+            "baseGenerationRate": 2,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "Pedałowanie",
+            "description": "generuje grzyby przez nieposiadanie samochodu",
+            "basePrice": 1000,
+            "baseGenerationRate": 10,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "Landlord",
+            "description": "generuje grzyby przez podnajem swojego mieszkania przyjaciółkom ze wschodu",
+            "basePrice": 5000,
+            "baseGenerationRate": 50,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "meshtastic",
+            "description": "generuje grzyby przez protokół LORE",
+            "basePrice": 25000,
+            "baseGenerationRate": 250,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "giełda",
+            "description": "generuje grzyby przez zwroty z inwestycji",
+            "basePrice": 100000,
+            "baseGenerationRate": 1000,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "pikseluwy",
+            "description": "generuje grzyby przez granie w gry, w których można policzyć piksele ręcznie",
+            "basePrice": 500000,
+            "baseGenerationRate": 5000,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "haskell",
+            "description": "generuje grzyby przez używanie rekurencyjnych funkcji",
+            "basePrice": 1000000,
+            "baseGenerationRate": 25000,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "AoC",
+            "description": "generuje grzyby przez rozwiązywanie zadań z drzewami",
+            "basePrice": 2500000,
+            "baseGenerationRate": 100000,
+            "priceMultiplier": 1.15
+        },
+        {
+            "name": "Happy Place",
+            "description": "generuje grzyby przez rozsiewanie zarodników na Róży",
+            "basePrice": 5000000,
+            "baseGenerationRate": 500000,
+            "priceMultiplier": 1.15
+        }
+    ]
+}
